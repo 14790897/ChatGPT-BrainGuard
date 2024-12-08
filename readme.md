@@ -13,6 +13,12 @@
 
 ## 安装
 
+### greasyfork 安装
+
+https://greasyfork.org/zh-CN/scripts/520108-chatgpt-%E9%99%8D%E6%99%BA%E9%81%BF%E5%85%8D
+
+### 手动安装
+
 1. 安装 [Tampermonkey](https://www.tampermonkey.net/) 或其他脚本管理器扩展。
 2. 打开 Tampermonkey 并创建一个新脚本。
 3. 将以下代码复制粘贴到脚本编辑器中：
